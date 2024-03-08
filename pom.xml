@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>in.akhil</groupId>
 	<artifactId>AdditionApp1</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>AdditionApp1</name>
 	<description>Application2</description>
